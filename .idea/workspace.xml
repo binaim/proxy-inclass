@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b4e9484-2508-4b97-9a38-381ce472ae1c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy-inclass-exercise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AThing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BThing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoggingProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProxyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thing.java" afterDir="false" />
-    </list>
+    <list default="true" id="2b4e9484-2508-4b97-9a38-381ce472ae1c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +32,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/ASD GUTHRIE/Asd from ahmed/ASD/Labs/proxy/exercise"
+    "last_opened_file_path": "E:/ASD GUTHRIE/Asd from ahmed/ASD/Labs/proxy/exercise",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RunManager">
@@ -69,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656775444552</updated>
-      <workItem from="1656775446903" duration="3506000" />
+      <workItem from="1656775446903" duration="3835000" />
     </task>
     <servers />
   </component>
