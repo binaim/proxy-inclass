@@ -1,12 +1,14 @@
 public class ProxyDemo {
     public static void main(String[] args) {
         /*
-        Hello: A
-        before
-        Hello: A
-        after
-
-
+        Hello A
+        Before
+        Hello A
+        After
+        Hello B
+        Before
+        Hello B
+        After
          */
 
         // 3a
